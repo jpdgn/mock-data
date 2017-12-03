@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Fish Seminar & Workshop",
+    "description": "Businesses such as GuideMeGreen and the co-op offer a real alternative for people concerned with these issues and with businesses that combine a strong ethical dimension in tandem with making profits.Here are some of the main features of organic farming:",
+    "label": "PELATIHAN",
+    "category": "pelatihan",
+    "date": "28/11/2017",
+    "viewed": 752,
+    "liked": 35,
+    "tags": [
+      "Training",
+      "Exhibition"
+    ],
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "name": "Stair Lifts Feel The Freedom Of Your Home",
+    "description": "Businesses such as GuideMeGreen and the co-op offer a real alternative for people concerned with these issues and with businesses that combine a strong ethical dimension in tandem with making profits.Here are some of the main features of organic farming:",
+    "label": "PELATIHAN",
+    "category": "pelatihan",
+    "date": "28/11/2017",
+    "viewed": 752,
+    "liked": 35,
+    "tags": [
+      "Training",
+      "Exhibition"
+    ],
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "name": "Effective Forms Advertising Internet Web Site",
+    "description": "Businesses such as GuideMeGreen and the co-op offer a real alternative for people concerned with these issues and with businesses that combine a strong ethical dimension in tandem with making profits.Here are some of the main features of organic farming:",
+    "label": "SEMINAR",
+    "category": "seminar",
+    "date": "28/11/2017",
+    "viewed": 752,
+    "liked": 35,
+    "tags": [
+      "Training",
+      "Exhibition"
+    ],
+    "status": "active"
+  }
+]
